@@ -9,9 +9,14 @@ SHARP PC-1261, PC-1262 上で動きます。
 * 変数を 内RAM に確保するため生成コードが小さく高速です。
 
 
-
 どなたかがバイナリ化してくれたファイルをそのまま利用させていただきました。ありがとうございます。
 
+
+* 掲載
+    * LUMMY-BAHN 工学社 PJ 1988年02月号
+    * LC-3 Compiler 工学社 PJ 1989年06月号
+    * IMADOKI BLOCK 2 工学社 PJ 1990年06月号
+    * ポケコン鳥人間 工学社 PJ 1990年08月号
 
 
 * https://wlog.flatlib.jp/archive/1/2018-1-3
@@ -19,14 +24,20 @@ SHARP PC-1261, PC-1262 上で動きます。
 
 ## 動画など
 
-他の方が上げていただいた動画です。
+他の方が上げてくれた動画です。
 
 * https://www.youtube.com/watch?v=-XztPbjwHVY
 * https://www.youtube.com/watch?v=VTZ5MVJVmc0
 
+* https://www.youtube.com/watch?v=TS54r1jzV0s
+* https://www.youtube.com/watch?v=2HGMV9Fs7rE
+
+
+## Emulator
+
+LC-3 Compiler が動くエミュレータ。
+
 * https://digihori.jimdo.com/index/emulator/
-    * https://www.youtube.com/watch?v=TS54r1jzV0s
-    * https://www.youtube.com/watch?v=2HGMV9Fs7rE
 
 
 
