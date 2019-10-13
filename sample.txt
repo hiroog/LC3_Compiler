@@ -1,0 +1,1 @@
+ 30:#A WAIT 1: CURSOR A  40:" *COMPILER LC-3*"   50:A=A+1: IF A<240 GOTO    #A                   60:CURSOR 0             70:#B WAIT 9: CLEAR RND    128: CHR$ C:C=C+1:      IF C=0 GOTO #C       80:GOTO #B              90:#C                  
